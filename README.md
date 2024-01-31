@@ -1,2 +1,3 @@
 # sample1
-its my first depository
+its my first git depository
+Author - Anza shoukat
